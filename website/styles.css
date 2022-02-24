@@ -1,0 +1,61 @@
+
+body {
+    background-image: url('https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-anh-gif-thanh-pho-xuong-den.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    font-family: Geneva;
+    font-size: 30px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+p2 {
+    display: block;
+    text-align: center;
+}
+
+a.tw {
+        background-color: #ffffff;
+        color: rgb(0, 0, 0);
+        padding: 15px 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+}
+
+a.tw:hover, a.tw:active {
+    background-color: rgba(0, 0, 0, 0.322);
+    color: #ffffff;
+}
+
+p3 {
+    display: block;
+    text-align: center;
+}
+
+a.gbc {
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    padding: 15px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a.gbc:hover, a.gbc:active {
+    background-color: rgba(0, 0, 0, 0.322);
+    color: #ffffff;
+}
+
+p4 {
+    display: block;
+    text-align: center;
+}
